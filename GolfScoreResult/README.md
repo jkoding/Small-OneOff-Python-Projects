@@ -1,7 +1,7 @@
 # GolfScoreResult 
 A set of commandline programs that simulate a small golf score tracking and display processes for tournament
-results. Use GolfScoreWriter.py to create a file containing the final score for a round of golf, saving it to 
-a file and then displaying the results with GolfScoreDisplay.
+results. Use GolfScoreWriter.py first to create a file containing the final score for a round of golf called 
+'results.txt'. Use GolfScoreDisplay to display the results in 'results.txt' with some basic formatting of the output.
 
 # GolfScoreWriter.py
 This program will accept user input for a golfer's name and their scores.
